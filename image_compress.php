@@ -8,7 +8,7 @@
 		// mostra o banner de uso
 		print "\r\n";
 		print __Name__ ." ". __Version__ . "\r\n\r\n";
-		print "[#] Uso : php image_compress.php image_para_comprimir.jpg|png|gif|bmp\r\n\r\n";
+		print "[#] Uso : php image_compress.php image_para_comprimir.jpg\r\n\r\n";
 		print "<danielferie56@hotmail.com>\r\n";
 		exit;
 	else:
